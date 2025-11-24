@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Margot Cottreau</h1>
 <h3 align="center">A computer engineering student at Polymtl</h3>
 
-- 🔭 I’m currently working on **UPIR**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **neural networks**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **margot.cottreau@gmail.com**
 
